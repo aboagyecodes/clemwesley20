@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clemwesley
+- 👋 Hi, I’m Clement Aboagye Yeboah
 - 👀 I’m interested in Web and Mobile Applications Development as well as Back end engineering
 - 🌱 I’m currently learning Reaxt JS and Django
 - 💞️ I’m looking to collaborate on any project alligned to my field
